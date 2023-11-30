@@ -15,6 +15,7 @@
 </p>
 
 <p align="left">
+
 <a href="mailto:brunooliveira99874@hotmail.com">
   <img src="https://img.shields.io/badge/-Hotmail-gray?style=flat-square&labelColor=white&logo=gmail&logoColor=gray&link=mailto:brunooliveira99874@hotmail.com"/>
 </a>
@@ -36,6 +37,8 @@
   ![Java](https://img.shields.io/badge/Java-100000?style=for-the-badge&logo=CoffeeScript)
   ![CSS3](https://img.shields.io/badge/css3-100000?style=for-the-badge&logo=css3&logoColor=blue)
   ![HTML5](https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5)
+  ![MYSQL](https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql)
+
   </details>
   <details>
     <summary>Tools</summary>
