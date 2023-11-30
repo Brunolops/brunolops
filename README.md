@@ -53,7 +53,7 @@
         <img height="170px" src="https://github-readme-streak-stats.herokuapp.com?user=BrunoLops&theme=darcula"/>
       </td>
       <td>
-        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandypiropo&layout=compact&theme=react&count_private=true"/>
+        <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoLops&layout=compact&theme=react&count_private=true"/>
       </td>
     </tr>
   </table>
@@ -61,5 +61,5 @@
 
 
 <!--
-![overview](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/overview.svg)
-![langs used](https://raw.githubusercontent.com/sandypiropo/github-stats/master/generated/languages.svg)
+![overview](https://raw.githubusercontent.com/BrunoLops/github-stats/master/generated/overview.svg)
+![langs used](https://raw.githubusercontent.com/BrunoLops/github-stats/master/generated/languages.svg)
